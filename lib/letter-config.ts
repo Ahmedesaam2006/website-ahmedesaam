@@ -8,7 +8,7 @@ export const letterConfig = {
   recipient: 'Malak',
   sender: 'AHMED ELSAYED',
   // عدّاد تنازلي حتى عيد الميلاد القادم — يُحسب من تاريخ الميلاد القادم
-  nextBirthday: '2026-07-10T00:00:00',
+  nextBirthday: '2026-06-28T00:00:00',
   age: 17,
   greeting: 'عيد ميلاد سعيد!',
   subtitle: 'يحتفل بعيد ميلاده الـ17!',
